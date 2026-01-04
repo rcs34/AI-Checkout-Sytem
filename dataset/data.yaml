@@ -1,0 +1,18 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Agnesi - Chifferi Rigati
+  1: Amul - Pure Milk Cheese Slices"
+  2: Betty Crocker - Complete Pancake Mix Classic
+  3: Blue Bird - Baking Powder
+  4: Blue Bird - Baking Soda
+  5: Ching's Secret - Dark Soy Sauce
+  6: Home One - Paper Napkin
+  7: India Gate - Pure Basmati Rice Super
+  8: Milky Mist - Fresh Cream
+  9: Nutty Gritties - Mix Berries
+  10: Patanjali - Atta Noodles
+  11: Patanjali - Raisin (Black)

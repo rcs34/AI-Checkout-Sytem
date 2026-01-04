@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Agnesi - Chifferi Rigati"
+    },
+    {
+      "id": 1,
+      "name": "Amul - Pure Milk Cheese Slices"
+    },
+    {
+      "id": 2,
+      "name": "Betty Crocker - Complete Pancake Mix Classic"
+    },
+    {
+      "id": 3,
+      "name": "Blue Bird - Baking Powder"
+    },
+    {
+      "id": 4,
+      "name": "Blue Bird - Baking Soda"
+    },
+    {
+      "id": 5,
+      "name": "Ching's Secret - Dark Soy Sauce"
+    },
+    {
+      "id": 6,
+      "name": "Home One - Paper Napkin"
+    },
+    {
+      "id": 7,
+      "name": "India Gate - Pure Basmati Rice Super"
+    },
+    {
+      "id": 8,
+      "name": "Milky Mist - Fresh Cream"
+    },
+    {
+      "id": 9,
+      "name": "Nutty Gritties - Mix Berries"
+    },
+    {
+      "id": 10,
+      "name": "Patanjali - Atta Noodles"
+    },
+    {
+      "id": 11,
+      "name": "Patanjali - Raisin (Black)"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
